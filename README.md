@@ -1,4 +1,4 @@
-# Federated-Learning-using-TensorFlow
+# Client Selectin in Federated-Learning-using-TensorFlow
 Implement Client Selection in Federated Learning envirnment using Tensorflow in Google Colab. <br>
 Steps: <br>
 1.Preprocess Dataset and sample Client from Tensorflow Lib <br>
